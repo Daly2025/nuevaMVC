@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Crear Nueva Tarea</title>
+    <link rel="stylesheet" href="/public/css/styles.css">
 </head>
 <body>
     <h1>Crear Nueva Tarea</h1>

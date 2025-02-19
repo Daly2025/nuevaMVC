@@ -6,6 +6,7 @@
 </head>
 <body>
     <h1>Editar Tarea</h1>
+    <link rel="stylesheet" href="/public/css/styles.css">
     <form action="/nuevamvc/tareas/actualizar" method="POST">
         <input type="hidden" name="id" value="<?php echo $data['tarea']->id; ?>">
         <label for="titulo">Título:</label>
